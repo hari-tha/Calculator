@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python program implements a basic calculator that allows users to evaluate mathematical expressions and perform direct arithmetic operations. The calculator supports addition, subtraction, multiplication, and division.
+This Python program implements a basic calculator that allows users to evaluate mathematical expressions and perform direct arithmetic operations. The calculator supports addition, subtraction, multiplication, and division. More operations can be  easily added to the code.
 
 ## Features
 
